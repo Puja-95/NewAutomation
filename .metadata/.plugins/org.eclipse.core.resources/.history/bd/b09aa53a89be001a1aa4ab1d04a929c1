@@ -1,0 +1,23 @@
+package functions;
+
+public class AccessModifiers {
+
+	public static void main(String[] args) {
+	
+
+	}
+public void publicFunction()
+{
+	}
+
+public void privateFunction()
+{
+	}
+
+public void defaultfunction()
+{
+	}
+public void protectedfunction()
+{
+	}
+}

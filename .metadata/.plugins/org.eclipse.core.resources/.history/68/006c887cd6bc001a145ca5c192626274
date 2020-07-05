@@ -1,0 +1,18 @@
+package ifElseStatements;
+
+public class IfElseClass1 {
+
+	public static void main(String[] args) {
+		int a=3;
+		int b=3;
+		int c= 4;
+		if (a>b)
+		{
+			if(b>c) {
+				
+				System.out.println(a);
+			}
+		}
+	}
+
+}

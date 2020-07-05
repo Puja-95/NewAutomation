@@ -1,0 +1,10 @@
+package oops.inheritance;
+
+public class Smartphone extend Mobile {
+
+	public void VideoCallin()
+	{
+		System.out.println("calling from smartphone");
+	}
+
+}

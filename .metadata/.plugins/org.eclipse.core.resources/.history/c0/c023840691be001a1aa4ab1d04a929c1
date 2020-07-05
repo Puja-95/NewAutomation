@@ -1,0 +1,11 @@
+package oops.inheritance;
+
+public class Smartphone extends Mobile {
+
+	public void VideoCallin()
+	{
+		System.out.println("calling from smartphone");
+	}
+
+}
+//we cannot achieve multiple inheritance in one class

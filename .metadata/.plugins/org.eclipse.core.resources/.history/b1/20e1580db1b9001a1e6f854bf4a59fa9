@@ -1,0 +1,37 @@
+package ifElseStatements;
+
+public class IfelseClass3NestedIfStatements {
+	// pratice nested condition-complete the below code
+	//learn questions based on Git 
+	public static void main(String[] args) {
+		int a = 10;
+		int b = 10;
+		int c = 20;
+
+		if (a > b) {
+			if (b > c) {
+
+			}
+		}
+		// And operator
+		int age = 10;
+
+		boolean voterid = true;
+
+		if (age > 18 && voterid) {
+			System.out.println("elegible");
+		} else {
+			System.out.println("not elegible");
+		}
+
+		// or operator
+		boolean panCard = true;
+		boolean adharCard = true;
+
+		if (panCard || adharCard) {
+			System.out.println("eligible");
+		} else {
+			System.out.println("not elegible");
+		}
+	}
+}

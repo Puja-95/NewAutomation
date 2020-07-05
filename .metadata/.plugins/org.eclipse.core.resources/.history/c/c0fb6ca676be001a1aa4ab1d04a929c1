@@ -1,0 +1,17 @@
+package functions;
+
+public class Function1 {
+
+	public static void main(String[] args) {
+		int a = 2;
+		int b = 3;
+		System.out.println(a + b);
+	}
+
+	public static void sum() {
+		int a = 40;
+		int b = 50;
+		System.out.println(a + b);
+
+	}
+}

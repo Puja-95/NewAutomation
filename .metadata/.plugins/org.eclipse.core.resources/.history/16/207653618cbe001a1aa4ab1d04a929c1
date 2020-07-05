@@ -1,0 +1,13 @@
+package variablesAndDatatypes;
+
+import functions.AccessModifiers;
+
+public class TestAccessModProject {
+
+	public static void main(String[] args) {
+		AccessModifiers obj= new AccessModifiers();
+		obj.publicFunction();
+
+	}
+
+}

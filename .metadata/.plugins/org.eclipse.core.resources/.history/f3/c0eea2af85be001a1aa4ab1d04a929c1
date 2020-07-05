@@ -1,0 +1,14 @@
+package functions;
+
+public class CallVariables {
+
+	public static void main(String[] args) {
+		System.out.println(Variable2.Fruits);
+		Variable2 NF=new Variable2();
+		System.out.println(NF.Flowers);
+		
+		Variable2.Fruits="geeta";
+		
+	}
+
+}

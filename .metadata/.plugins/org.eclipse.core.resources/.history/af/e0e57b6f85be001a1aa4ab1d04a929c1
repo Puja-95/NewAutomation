@@ -1,0 +1,10 @@
+package functions;
+
+public class CallVariables {
+
+	public static void main(String[] args) {
+		System.out.println(Variable2.Fruits);
+
+	}
+
+}

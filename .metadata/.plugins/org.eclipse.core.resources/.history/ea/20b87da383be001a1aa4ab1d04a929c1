@@ -1,0 +1,13 @@
+package functions;
+
+public class CallVariables1 {
+
+	public static void main(String[] args) {
+		System.out.println(Variables1.name);
+		Variables1 ref=new Variables1();
+		System.out.println(ref.name2);
+		
+		
+	}
+
+}
