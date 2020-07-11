@@ -2,4 +2,5 @@
 <qualifiedTypeNameHistroy>
 <fullyQualifiedTypeName name="functions.Variables1"/>
 <fullyQualifiedTypeName name="functions.AccessModifiers"/>
+<fullyQualifiedTypeName name="functions.TestAccessModPackageLevel"/>
 </qualifiedTypeNameHistroy>

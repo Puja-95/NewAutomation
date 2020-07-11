@@ -8,12 +8,12 @@ public class Users {
 		sm.calling();
 		sm.VideoCallin();
 		
-		Mobile mb=new Mobile();
+		/*Mobile mb=new Mobile();
 		mb.Texting();
 		mb.calling();
 		
 		Telephone tl=new Telephone();
-		tl.calling();
+		tl.calling();*/
 	
 
 	}

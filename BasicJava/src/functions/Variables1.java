@@ -6,3 +6,4 @@ public class Variables1 {
 	public String name2="puja";
 	
 }
+ 

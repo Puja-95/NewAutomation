@@ -1,6 +1,7 @@
 package variablesAndDatatypes;
 
 import functions.AccessModifiers;
+import functions.TestAccessModPackageLevel;
 
 public class TestAccessModProject extends AccessModifiers {
 
@@ -9,6 +10,7 @@ public class TestAccessModProject extends AccessModifiers {
 		obj.publicFunction();
 		
 		//obj.protectedfunction();-> you can access at project level by using child class object
+		
 		
 	
 	}

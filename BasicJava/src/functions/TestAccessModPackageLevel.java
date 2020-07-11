@@ -6,8 +6,11 @@ public class TestAccessModPackageLevel {
 		AccessModifiers obj = new AccessModifiers();
 		obj.publicFunction();
 		obj.defaultfunction();
-		obj.protectedfunction();
+		
+	obj.protectedfunction();
 
+	}
+	protected void protectedfunction() {
 	}
 
 }
