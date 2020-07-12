@@ -1,9 +1,0 @@
-package variablesAndDatatypes;
-
-public class Arithemeticoperators {
-
-	public static void main(String[] args) {
-		//+, -, /, *
-	}
-
-}

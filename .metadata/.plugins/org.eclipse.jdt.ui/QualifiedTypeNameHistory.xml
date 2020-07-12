@@ -3,4 +3,7 @@
 <fullyQualifiedTypeName name="functions.Variables1"/>
 <fullyQualifiedTypeName name="functions.AccessModifiers"/>
 <fullyQualifiedTypeName name="functions.TestAccessModPackageLevel"/>
+<fullyQualifiedTypeName name="oops.inheritance.Smartphone"/>
+<fullyQualifiedTypeName name="oops.inheritance.Mobile"/>
+<fullyQualifiedTypeName name="oops.inheritance.Telephone"/>
 </qualifiedTypeNameHistroy>

@@ -35,7 +35,7 @@ public class DynamicPolymorhism {
 		 * if we have oriden class in our child class then we can call that functions
 		 * from child class
 		 */
-
+// dynamic-it is process call to overiden it is resolve at runtime- two class, 
 		Telephone obj2 = null;
 		String browsername = "chrome";
 		if (browsername.equals("chrome")) {
