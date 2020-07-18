@@ -12,6 +12,7 @@ public class ListInterface {
 	list.add("Puja");
 	list.add("Akhiles");
 	list.add("Nitu");
+	
 	list.add("Puja");
 	for(String s:list)
 	{
