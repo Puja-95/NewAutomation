@@ -10,4 +10,4 @@ public /*final*/ class Testing {//cannot overide final class
 	{
 		//we cannot overide final method
 	}
-}//final is used-url, screen shot path, driver path
+}//final is usedin selenium-url, screen shot path, driver path
