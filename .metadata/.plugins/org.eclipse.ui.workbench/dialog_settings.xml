@@ -27,4 +27,6 @@
 			<item value="org.eclipse.jpt.jpa"/>
 		</list>
 	</section>
+	<section name="ImportExportAction">
+	</section>
 </section>
